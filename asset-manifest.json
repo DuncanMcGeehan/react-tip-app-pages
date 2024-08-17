@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tip-app-pages/static/css/main.15d0b043.css",
+    "main.js": "/react-tip-app-pages/static/js/main.c4eed752.js",
+    "static/js/453.afea8ecc.chunk.js": "/react-tip-app-pages/static/js/453.afea8ecc.chunk.js",
+    "static/media/money.gif": "/react-tip-app-pages/static/media/money.9c1ae002c62a89a153df.gif",
+    "static/media/coins.png": "/react-tip-app-pages/static/media/coins.14c086753e54806f069a.png",
+    "static/media/venmo_qr_nobg.png": "/react-tip-app-pages/static/media/venmo_qr_nobg.b05a0b3d528e11654c5a.png",
+    "static/media/slick.svg": "/react-tip-app-pages/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-tip-app-pages/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-tip-app-pages/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-tip-app-pages/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-tip-app-pages/index.html",
+    "main.15d0b043.css.map": "/react-tip-app-pages/static/css/main.15d0b043.css.map",
+    "main.c4eed752.js.map": "/react-tip-app-pages/static/js/main.c4eed752.js.map",
+    "453.afea8ecc.chunk.js.map": "/react-tip-app-pages/static/js/453.afea8ecc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d0b043.css",
+    "static/js/main.c4eed752.js"
+  ]
+}
